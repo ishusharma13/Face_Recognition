@@ -9,4 +9,8 @@ A lightweight CNN model for recognizing facial expressions from images. Trained 
 - ✅ **Lightweight (<1GB)** – easy to push to GitHub.
 
 
-  
+  ## 🚀 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ishusharma13/Face_Recognition
+   cd Face_Recognition 
