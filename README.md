@@ -1,2 +1,14 @@
-# Face_Recognition
-Facial Expression Recognition using a lightweight CNN trained on the FER-2013 dataset. Detects emotions like happy, sad, and neutral from grayscale images. Uses OpenCV for preprocessing and TensorFlow/Keras for training. Optimized for small size (&lt;1GB), making it easy to run and deploy. Ideal for real-time applications and low-memory environments.
+# 🎭 Facial Expression Recognition (FER-2013)
+
+A lightweight CNN model for recognizing facial expressions from images. Trained on the FER-2013 dataset, it detects emotions like **happy, sad, and neutral**. Optimized for small size (<1GB) and easy deployment.
+
+## 📌 Features
+- ✅ Detects **Happy, Sad, Neutral** emotions.
+- ✅ Trained on **FER-2013 dataset**.
+- ✅ Uses **OpenCV & TensorFlow/Keras**.
+- ✅ **Lightweight (<1GB)** – easy to push to GitHub.
+
+## 🚀 Installation
+1. Clone the repository:
+   ```bash
+  
