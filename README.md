@@ -8,7 +8,5 @@ A lightweight CNN model for recognizing facial expressions from images. Trained 
 - ✅ Uses **OpenCV & TensorFlow/Keras**.
 - ✅ **Lightweight (<1GB)** – easy to push to GitHub.
 
-## 🚀 Installation
-1. Clone the repository:
-   ```bash
+
   
